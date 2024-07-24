@@ -1,0 +1,11 @@
+
+…
+java:S2259"BA "NullPointerException" could be thrown; "node" is nullable here.(Ÿµª…8ù«£’Ž2J$c1635d77-9e1d-46e4-ada1-a91bb8d863db
+ˆ
+java:S2259"FA "NullPointerException" could be thrown; "nodePrev" is nullable here.(©òÆt8ù«£’Ž2J$bbdfe518-dd4c-4c78-8725-867b43deafab
+›	java:S116"TRename this field "CLOCKWISE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Î¨…ÿÿÿÿÿ8ú«£’Ž2J$3301d156-e821-42bb-accb-5ef57973151e
+Ÿ	java:S116"XRename this field "ANTICLOCKWISE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë«®¹øÿÿÿÿ8ú«£’Ž2J$854ad6cb-110e-4c2d-a397-325e8e6abb15
+i
+java:S1170"!Make this final field static too.(±Î¨…ÿÿÿÿÿ8ú«£’Ž2J$b650789c-2fbc-43e2-9d80-ba656148a81d
+i
+java:S1170"!Make this final field static too.(ë«®¹øÿÿÿÿ8ú«£’Ž2J$840d012c-2a1b-4804-bd34-89ef6cc76c9d

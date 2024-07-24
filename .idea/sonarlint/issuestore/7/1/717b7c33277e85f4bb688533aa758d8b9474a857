@@ -1,0 +1,14 @@
+
+
+java:S1659	">Declare "k" and all following declarations on a separate line.(íÉì–8Žàã’Ž2J$9e32a8d2-05bb-4dd0-be6a-33ee569bb40a
+m	java:S106 "+Replace this use of System.out by a logger.(÷•è‘8”àã’Ž2J$b1dc4d64-e0e5-46f8-9d66-83517fd9f87a
+m	java:S106""+Replace this use of System.out by a logger.(À¨öÚ8”àã’Ž2J$5495fe52-29c4-4e96-a5c2-066af383c6c7
+”
+java:S3457."Q%n should be used in place of \n to produce the platform-specific line separator.(ö²ÊÆ8–àã’Ž2J$0eb15ee9-de75-4426-8a1b-5c3f0e51563e
+m	java:S106."+Replace this use of System.out by a logger.(ö²ÊÆ8–àã’Ž2J$208b7b35-0a5d-47c2-b64b-8ab8307eab8e
+”
+java:S34570"Q%n should be used in place of \n to produce the platform-specific line separator.(º…ð×8–àã’Ž2J$06a698e6-ff27-4747-91b0-1f2e872f186a
+m	java:S1060"+Replace this use of System.out by a logger.(º…ð×8–àã’Ž2J$0d42e15f-4273-4fe6-a6c5-c0f7d5f048db
+™
+java:S34573"Q%n should be used in place of \n to produce the platform-specific line separator.(™ìì†úÿÿÿÿ8—àã’Ž2J$f48ae48b-f0cd-47bd-a258-44546fb28d78
+r	java:S1063"+Replace this use of System.out by a logger.(™ìì†úÿÿÿÿ8—àã’Ž2J$af389e1c-7ac5-4ba1-8dbf-8a62129ca04e
